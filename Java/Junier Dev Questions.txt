@@ -1,0 +1,22 @@
+- What is method overloading vs method overriding?
+- What are the differences between Heap and Stack Memory?
+- Explain the expected output of the following code segment?
+    System.out.println(100 + 100 + "text");
+    System.out.println("text" + 100 + 100);
+- What are shallow copy and deep copy?
+- What is the garbage collector and how does it work?
+- What are the differences between constructor and method of a class in Java? 
+- Explain the 'this' keyword in Java.
+- What is an abstract class?
+- Explain the 'super' keyword in Java.
+- Why are generics used in Java Programming?
+- How is the 'final' keyword applied differently between variables, method, and classes?
+- What is 'protected'?
+- What is the difference between equals() and == in Java?
+- In Java, "Pass by Reference" or "Pass by value"?
+- What is a Singleton class and how do you ensure class in a Singleton?
+- What are Composition and Aggregation? State the difference.
+- Explain static block.
+- Why is the remove method faster in the linked list than in an array?
+- How does the size of ArrayList grow dynamically? And also state how it 
+- What is a Comparator and Comparable is Java?
