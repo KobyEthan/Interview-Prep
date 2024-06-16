@@ -1,5 +1,9 @@
 package Java;
 // Method Overloading:
+
+// In Java, Method Overloading allows different methods to have the same name, 
+// but different signatures where the signature can differ by the number of input parameters or type of input parameters, or a mixture of both.
+
 // Method overloading is a compile-time polymorphism.	
 // Method overloading helps to increase the readability of the program.	
 // It occurs within the class.	
@@ -41,7 +45,13 @@ class MethodOverloadingEx {
 // add() with 3 parameters
 // 17
 
-// Method Overrriding:
+// Method Overrriding: 
+
+// In Java, Overriding is a feature that allows a subclass or child class to provide
+// a specific implementation of a method that is already provided by one of its super-classes or parent classes. When a method in a subclass 
+// has the same name, the same parameters or signature, and the same return type(or sub-type) as a method in its super-class, 
+// then the method in the subclass is said to override the method in the super-class.
+
 // Method overriding is a run-time polymorphism.
 // Method overriding is used to grant the specific implementation of the method which is already provided by its parent class or superclass.
 // It is performed in two classes with inheritance relationships.

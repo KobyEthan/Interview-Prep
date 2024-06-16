@@ -1,9 +1,9 @@
-- What is method overloading vs method overriding?
-- What are the differences between Heap and Stack Memory?
-- Explain the expected output of the following code segment?
+- What is method overloading vs method overriding? //
+- What are the differences between Heap and Stack Memory? //
+- Explain the expected output of the following code segment? //
     System.out.println(100 + 100 + "text");
     System.out.println("text" + 100 + 100);
-- What are shallow copy and deep copy?
+- What are shallow copy and deep copy? //
 - What is the garbage collector and how does it work?
 - What are the differences between constructor and method of a class in Java? 
 - Explain the 'this' keyword in Java.
